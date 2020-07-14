@@ -7,7 +7,7 @@ class Dog
 @@all= []
   
   def initialize (name)
-    @name = name
+    @name = name  #changed from a class varible @@ to and instance varible @
      @@save = save
   end
   
